@@ -1,6 +1,9 @@
-# ICCV-Interactive-RTI-acquisition-method
 
-## Introduction
+## Author
+Arsalan Khawaja is currently a joint PhD Student at NTNU, Norway, and the University of Burgundy, France. His past experience includes intern researcher at the Endoscopy and Computer Vision (EnCoV) Research Group at Clermont-Ferrand, France, and as a Research Assistant at the Institute of Space Technology, Islamabad. His area of interest is Interactive Machine Learning, Image registration, Reflectance Transformation Imaging, and Control theory. Currently, he is working on developing Optimization Algorithms for Reflectance Transformation Imaging.
+
+
+# ICCV-Interactive-RTI-acquisition-method
 We have investigated the problem of optimized acquisition
 for RTI in 2D ring setup in this paper. We have
 proposed a methodology based on signal analysis which
