@@ -1,4 +1,4 @@
-# Interactive-RTI-acquisition-method
+# An Interactive Method for Adaptive Acquisition in Reflectance Transformation Imaging for Cultural Heritage
 
 <img src="iccvlogo.jpeg" alt="iccvlogo" width="800">
 
