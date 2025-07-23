@@ -1,6 +1,6 @@
 # Interactive-RTI-acquisition-method
 
-![iccvlogo](iccvlogo.jpeg)
+<img src="iccvlogo.jpeg" alt="iccvlogo" width="800">
 
 
 # Interactive-RTI-acquisition-method
